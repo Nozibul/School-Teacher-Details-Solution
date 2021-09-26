@@ -11,8 +11,8 @@ const Salary = (props) => {
     return (
         
         <div className="salary">
-            <h1>Teacher Count:{props.info.length}</h1>
-            <h2>Total Salary : ${total}</h2>
+            <h1>Teacher Count:<span>{props.info.length}</span></h1>
+            <h2>Total Salary :$<span>{total}</span></h2>
                 {
                   info.map(previous => <div className="teacher-name"> 
                       <img src={previous.img} alt="" />

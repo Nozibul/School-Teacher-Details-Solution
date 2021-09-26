@@ -7,6 +7,9 @@
     color: rgb(156, 120, 27);
     border-radius: 10px;
 }
+.salary span {
+    color: rgb(236, 229, 229);
+}
 
 .teacher-name{
     display: flex;
@@ -14,10 +17,9 @@
     margin:7px auto;
     background-image: linear-gradient(#fa6f53c9,#f7a129c4);
     width: 200px;
-    /* height: 45px; */
     color: white;
     text-align: center;
-    padding: 5px;
+  
 
 }
 

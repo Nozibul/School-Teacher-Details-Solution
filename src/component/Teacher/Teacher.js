@@ -1,3 +1,6 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faShoppingCart } from '@fortawesome/free-solid-svg-icons'
+
 import React from 'react';
 import './taecher.css'
 
@@ -18,7 +21,8 @@ const Teacher = (props) => {
                 <h3>Salary: ${salary}</h3>
             </div>
             <div className="btn">
-                <button className="btn-salary" onClick={()=>props.handleSalary(props.teacher)}>Add to Salary</button>
+                <button className="btn-salary" onClick={()=>props.handleSalary(props.teacher)}>
+                <FontAwesomeIcon icon={faShoppingCart} />Add to Salary</button>
             </div>
 
         </div>
