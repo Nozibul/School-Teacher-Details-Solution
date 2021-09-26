@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# School Teacher Details Solution
 
-This project was bootstrapped with [Create React App](https://school-teacher-details-solution.netlify.app/).
+This project was bootstrapped with [https://school-teacher-details-solution.netlify.app](https://school-teacher-details-solution.netlify.app/).
 
 ## Available Scripts
 
 In the project directory, you can run:
+.Through such projects, it is possible to know about the teachers of any school.
+.It also shos how much an organiation spends per month or year.
+.In the institution that use this type of website, people are intersted in teaching their children.
+.With this type of know the details about anything.
+
 
 ### `npm start`
 
