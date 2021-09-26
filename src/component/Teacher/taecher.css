@@ -27,7 +27,8 @@
     height: 30px;
     border-radius: 7px;
     border: none;
-    background-image: linear-gradient(#d0f894, #f254a8);
+    background-image: linear-gradient(#c8f585, #f254a8);
     margin: 20px 0px;
     text-align: center;
+    font-size: 18px;
 }

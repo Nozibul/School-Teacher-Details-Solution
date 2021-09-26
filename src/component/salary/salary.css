@@ -1,0 +1,31 @@
+.salary{
+    text-align: center;
+    margin-top: 20px;
+    background-image: linear-gradient(#00c8ffda, #a5f8ad);
+    margin-left: 20px;
+    line-height: 50px;
+    color: rgb(156, 120, 27);
+    border-radius: 10px;
+}
+
+.teacher-name{
+    border-radius: 10px;
+    margin:7px auto;
+    background-image: linear-gradient(#f85e3fc9,#f09619c4);
+    width: 170px;
+    height: 45px;
+    color: white;
+    text-align: center;
+
+}
+
+.details-btn{
+    width: 150px;
+    height: 30px;
+    border-radius: 7px;
+    border: none;
+    background-image: linear-gradient(#c8f585, #f254a8);
+    margin: 20px 0px;
+    text-align: center;
+    font-size: 18px;
+}

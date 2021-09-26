@@ -14,10 +14,11 @@ const School = () => {
     }, [])
 
     // useState for cart_salary and Eventhabdler
-    const [salary, setSalary] = useState([])
+    const [info, setInfo] = useState([])
     const handleToSalary = (informations) => {
-          const newSalary = [...salary, informations];
-          setSalary(newSalary)
+        // console.log(info)
+          const newInfo = [...info, informations];
+          setInfo(newInfo)
     }
 
     return (
@@ -25,13 +26,14 @@ const School = () => {
             <div className="teacher-container">
                 {
                     teachers.map(teacher => <Teacher 
+                         key={teacher.name}
                          teacher={teacher}
                          handleSalary={handleToSalary}
                          /> )
                 }
             </div>
-            <div className="salary">
-                <Salary salary ={salary}/>
+            <div>
+                <Salary info ={info}/>
             </div>
         </div>
     );
