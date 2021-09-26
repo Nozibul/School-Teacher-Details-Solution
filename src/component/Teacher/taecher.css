@@ -22,6 +22,8 @@
     text-align: center;
 
 }
+
+
 .btn-salary{
     width: 150px;
     height: 30px;
@@ -31,4 +33,8 @@
     margin: 20px 0px;
     text-align: center;
     font-size: 18px;
+}
+.icon{
+    color: rgb(110, 108, 108);
+    margin-right: 5px;
 }

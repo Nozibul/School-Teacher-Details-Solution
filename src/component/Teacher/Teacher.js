@@ -22,7 +22,7 @@ const Teacher = (props) => {
             </div>
             <div className="btn">
                 <button className="btn-salary" onClick={()=>props.handleSalary(props.teacher)}>
-                <FontAwesomeIcon icon={faShoppingCart} />Add to Salary</button>
+                <FontAwesomeIcon className="icon" icon={faShoppingCart} />Add to Salary</button>
             </div>
 
         </div>
