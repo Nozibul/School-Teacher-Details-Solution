@@ -1,0 +1,10 @@
+
+.header{
+    width: 85%;
+    margin: auto;
+    text-align: center;
+    background-color:rgb(199, 197, 197);
+    padding: 10px;
+    line-height: 40px;
+    font-weight: 400;
+}
