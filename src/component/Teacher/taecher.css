@@ -1,0 +1,33 @@
+.photo{
+    text-align: center;
+}
+.photo img{
+    width: 150px ;
+    height: 150px;
+    margin-top: 15px;
+    border-radius: 50%;
+}
+.teacher-detail{
+    background-image: linear-gradient( #a0f1ea ,#dec2e4);
+    border-radius: 10px; 
+    line-height: 30px;
+
+}
+
+.title{
+    margin-left: 10px;
+}
+
+.btn{
+    text-align: center;
+
+}
+.btn-salary{
+    width: 150px;
+    height: 30px;
+    border-radius: 7px;
+    border: none;
+    background-image: linear-gradient(#d0f894, #f254a8);
+    margin: 20px 0px;
+    text-align: center;
+}

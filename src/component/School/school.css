@@ -1,0 +1,20 @@
+.school-container{
+    /* background-color: rgb(223, 219, 219); */
+    width: 90%;
+    margin: auto;
+    /* padding: 10px; */
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.teacher-container{
+    
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        grid-gap: 20px;
+        margin-top: 15px;
+    }
+
+.salary{
+    border: 1px solid green;
+}
