@@ -9,13 +9,15 @@
 }
 
 .teacher-name{
+    display: flex;
     border-radius: 10px;
     margin:7px auto;
-    background-image: linear-gradient(#f85e3fc9,#f09619c4);
-    width: 170px;
-    height: 45px;
+    background-image: linear-gradient(#fa6f53c9,#f7a129c4);
+    width: 200px;
+    /* height: 45px; */
     color: white;
     text-align: center;
+    padding: 5px;
 
 }
 
@@ -28,4 +30,11 @@
     margin: 20px 0px;
     text-align: center;
     font-size: 18px;
+}
+
+.teacher-name img{
+    width: 80px;
+    margin-right: 10px;
+    border-radius: 10px;
+
 }

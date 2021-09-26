@@ -14,7 +14,9 @@ const Salary = (props) => {
             <h1>Teacher Count:{props.info.length}</h1>
             <h2>Total Salary : ${total}</h2>
                 {
-                  info.map(previous => <h3 className="teacher-name">{previous.name}</h3> )
+                  info.map(previous => <div className="teacher-name"> 
+                      <img src={previous.img} alt="" />
+                      <p> {previous.name}  </p></div> )
                 }
              <div >
                  <button className="details-btn">More Details</button>

@@ -23,7 +23,7 @@
         "qualifications":"BSc in CSE",
         "subject":"JAVA",
         "age":32,
-        "img":"https://thumbs.dreamstime.com/b/young-male-teacher-standing-near-blackboard-young-male-teacher-standing-near-blackboard-white-background-114171081.jpg",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTDpngNhZpVdOhyGWxW0NYgWf3c1bxTWejA&usqp=CAU",
         "address":"Aleander",
         "salary":28000},
     
@@ -90,7 +90,8 @@
                 "qualifications":"BSc in CSE.",
                 "subject":"Syber Security",
                 "age":41,
-                "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztQAAQqhfFNl2j9DwhH9mk2UAieFnhQww2A&usqp=CAU","address":"Hanston",
+                "img":"https://thumbs.dreamstime.com/b/young-male-teacher-standing-near-blackboard-young-male-teacher-standing-near-blackboard-white-background-114171081.jpg",
+                "address":"Hanston",
                 "salary":25000
             },
 
@@ -99,7 +100,8 @@
                 "qualifications":"MSc in CSE",
                 "subject":"Networking",
                 "age":30,
-                "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTDpngNhZpVdOhyGWxW0NYgWf3c1bxTWejA&usqp=CAU","address":"Dundee",
+                "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9E-3h-z9VFXTTbvjYwivwMwci8GbOm5b4yg&usqp=CAU",
+                "address":"Dundee",
                 "salary":26000
             },
 
